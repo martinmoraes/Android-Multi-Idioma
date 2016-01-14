@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recurso strings</string>
+    <string name="nome">Nome</string>
+    <string name="dtnascimento">Data de Nascimento</string>
+    <string name="altera">Altera</string>
+
+
+
+</resources>
