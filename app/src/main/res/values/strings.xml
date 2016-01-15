@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">Recurso strings</string>
+    <string name="app_name">Multi-idioma</string>
     <string name="nome">Nome</string>
     <string name="dtnascimento">Data de Nascimento</string>
     <string name="altera">Altera</string>
+    <string name="advogado">Advogado</string>
+    <string name="agenda">Agenda</string>
+    <string name="apartamento">Apartamento</string>
 
 
 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Multilanguage </string>
+    <string name="nome">Name</string>
+    <string name="dtnascimento">Birth date</string>
+    <string name="altera">Change</string>
+    <string name="advogado">Lawyer</string>
+    <string name="agenda">Appointment book</string>
+    <string name="apartamento">Apartment</string>
+</resources>
